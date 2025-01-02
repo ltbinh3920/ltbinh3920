@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltbinh3920
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter, React Native
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Full Stack
 - 📫 How to reach me 
   - Personal gmail: lethanhbinh3920@gmail.com
   - Company gmail: binhle@vietkite.com
